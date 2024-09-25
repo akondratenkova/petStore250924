@@ -9,7 +9,7 @@ import lombok.Setter;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-public class UserCreated {
+public class UserCreatedUpdated {
     public Integer code;
     public String type;
     public String message;
