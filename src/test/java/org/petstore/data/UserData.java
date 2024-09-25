@@ -27,4 +27,8 @@ public class UserData {
         this.password = password;
         this.phone = phone;
     }
+
+    public UserData(String username) {
+        this.username = username;
+    }
 }
